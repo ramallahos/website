@@ -707,23 +707,33 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"] #
 
 [mediaTypes] # Options to make output .md files
 
-  [mediaTypes."text/plain"]
-    suffixes = ["md"]
+  # [mediaTypes."text/plain"]
+  #   suffixes = ["md"]
+
+  [mediaTypes."text/html"]
+    suffixes = ["html"]
+
+# [outputFormats.MarkDown] # Options to make output .md files
+#   mediaType = "text/plain"
+#   isPlainText = true
+#   isHTML = false
+
+[outputFormats]
+  [outputFormats.HTML]
+    mediaType = "text/html"
 
 
-[outputFormats.MarkDown] # Options to make output .md files
-  mediaType = "text/plain"
-  isPlainText = true
-  isHTML = false
+# [outputs] # Options to make hugo output files
+#   home = ["HTML", "RSS", "JSON"]
+#   page = ["HTML", "MarkDown"]
+#   section = ["HTML", "RSS"]
+#   taxonomy = ["HTML", "RSS"]
 
-
-[outputs] # Options to make hugo output files
-  home = ["HTML", "RSS", "JSON"]
-  page = ["HTML", "MarkDown"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
-#  taxonomyTerm = ["HTML"]
-
+[outputs]
+  home = ["HTML"]
+  page = ["HTML"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
 
 [taxonomies]
   author = "authors"
