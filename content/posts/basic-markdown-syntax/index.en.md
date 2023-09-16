@@ -758,3 +758,6 @@ With a reference later in the document defining the URL location:
 {{< admonition tip >}}
 **DoIt** theme has [special shortcode for image](../theme-documentation-extended-shortcodes#image), which provides more features.
 {{< /admonition >}}
+
+
+<video src="Unlike_Pluto-Searching_For_You.mp4" controls></video>
