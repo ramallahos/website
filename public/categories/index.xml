@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - RamallahOS</title>
+        <link>https://ramallahos.github.io/categories/</link>
+        <description>Categories - Category - RamallahOS</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>SafwanNayeemYousuf@gmail.com (Safwan Nayeem Yousuf)</managingEditor>
+            <webMaster>SafwanNayeemYousuf@gmail.com (Safwan Nayeem Yousuf)</webMaster><lastBuildDate>Sat, 16 Sep 2023 07:06:07 &#43;0600</lastBuildDate><atom:link href="https://ramallahos.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Markdown</title>
+    <link>https://ramallahos.github.io/categories/markdown/</link>
+    <pubDate>Sat, 16 Sep 2023 07:06:07 &#43;0600</pubDate><author>
+        <name>Safwan Nayeem Yousuf</name>
+    </author><guid>https://ramallahos.github.io/categories/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

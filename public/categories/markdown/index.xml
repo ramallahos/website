@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Markdown - Category - RamallahOS</title>
+        <link>https://ramallahos.github.io/categories/markdown/</link>
+        <description>Markdown - Category - RamallahOS</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>SafwanNayeemYousuf@gmail.com (Safwan Nayeem Yousuf)</managingEditor>
+            <webMaster>SafwanNayeemYousuf@gmail.com (Safwan Nayeem Yousuf)</webMaster><lastBuildDate>Sat, 16 Sep 2023 07:06:07 &#43;0600</lastBuildDate><atom:link href="https://ramallahos.github.io/categories/markdown/" rel="self" type="application/rss+xml" /><item>
+    <title>Tutorial</title>
+    <link>https://ramallahos.github.io/tutorial/</link>
+    <pubDate>Sat, 16 Sep 2023 07:06:07 &#43;0600</pubDate><author>
+        <name>Safwan</name>
+    </author><guid>https://ramallahos.github.io/tutorial/</guid>
+    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+</item></channel>
+</rss>

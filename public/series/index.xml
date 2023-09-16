@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Series - Series - RamallahOS</title>
+        <link>https://ramallahos.github.io/series/</link>
+        <description>Series - Series - RamallahOS</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>SafwanNayeemYousuf@gmail.com (Safwan Nayeem Yousuf)</managingEditor>
+            <webMaster>SafwanNayeemYousuf@gmail.com (Safwan Nayeem Yousuf)</webMaster><atom:link href="https://ramallahos.github.io/series/" rel="self" type="application/rss+xml" /></channel>
+</rss>
